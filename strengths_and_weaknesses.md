@@ -1,6 +1,6 @@
 # Strengths
-good for collaboration
-History works as backup
+1. good for collaboration
+2. History works as backup
 # Weaknesses
-can be complicated 
-All versions need file space  
+1. can be complicated 
+2. All versions need file space  
