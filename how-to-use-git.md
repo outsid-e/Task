@@ -5,4 +5,4 @@
 4. See your history with `git log`
 5. Move around (history and branches!) with `git checkout`
 6. Create new branches with `git branch [branch name]` or `git checkout -b [branch name]` to simultaneously move into that new branch
-7. To collaborate, first `git pull` others changes, then `git push [akias] [branch]` yours
+7. To collaborate, first `git pull` others changes, then `git push [alias] [branch]` yours
